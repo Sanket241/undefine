@@ -1,0 +1,82 @@
+.regi{
+    width: 100%;
+    height: 655px;
+}
+.regi .regi-block{
+    width: 50%;
+    margin-left: 385px;
+    margin-top: 38px;
+    border: 2px solid #000;
+}
+.regi .regi-block h1{
+    margin: 0px;
+    font-size: 54px;
+}
+
+.regi .regi-block .email-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.regi .regi-block .email-block  p{
+    margin: 0px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.regi .regi-block .email-block  input{
+    width: 300px;
+    height: 40px;
+}
+
+
+.regi .regi-block .password{
+    margin-left: 39px;
+}
+
+.regi .regi-block .password p{
+    margin: 0px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.regi .regi-block .password input{
+    width: 675px;
+    height: 40px;
+}
+
+.regi .regi-block .contact{
+    margin-left: 39px;
+}
+
+.regi .regi-block .contact p{
+    margin: 0px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.regi .regi-block .contact input{
+    width: 675px;
+    height: 40px;
+}
+
+.regi .regi-block .eth-id{
+    margin-left: 39px;
+}
+.regi .regi-block .eth-id p{
+    margin: 0px;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.regi .regi-block .eth-id input{
+    width: 675px;
+    height: 40px;
+}
+.regi .regi-block button{
+    margin: 10px;
+    padding: 12px 22px;
+    font-size: 24px;
+    margin-left: 40px;
+}
+.regi .regi-block span{
+    font-size: 22px;
+    position: relative;
+    left: 375px;
+}

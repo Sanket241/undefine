@@ -15,7 +15,7 @@ const Navbar = () => {
             <NavLink to="/about">About</NavLink>
             {/* <NavLink to="#pricing">Pricing</NavLink> */}
           </Nav>
-          <Button variant="outline-primary">Primary</Button>
+          <Button variant="outline-primary"> <NavLink to="/navi">Primary</NavLink></Button>
         </Container>
       </Navbar>
 
